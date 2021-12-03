@@ -27,17 +27,17 @@ h1 {
     line-height: 85px;
 }
 
-span{
+.lightblue{
 color: rgb(124,199,238);}
 
 .grey{
    
     color: grey;
 }
-p {
-    font-size: 40px;
+p{
+    font-size: 35px;
 }
-time ,.centro p {
+time , .p_small {
     font-size: 25px;
 }
 .centro{
@@ -51,4 +51,9 @@ time ,.centro p {
 }
 .tim2{
     width: 44.2%;
+}
+
+.fake_ul{
+    font-size: 30px;
+    margin-right: 20px;
 }
