@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing:0;
+    color: red;
+}
+
+.container {
+    height: auto;
+    background-image: url("/img/pattern.png");
+    
+}
+
+.logo{
+    width: 20%;
+    height: auto;
+}
