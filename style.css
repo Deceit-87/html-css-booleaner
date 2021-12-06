@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    box-sizing:0;
+    box-sizing:border-box;
 }
 
 .container {
@@ -44,6 +44,8 @@ time , .p_small {
   margin-top: 38px;
   width: 100%;
   height: auto;
+  position: relative;
+  
 }
 /* foto */
 .tim1{
@@ -102,4 +104,22 @@ text-align: center;}
 
    .evidenziato {
 background-color: yellow;
+   }
+
+   .testo {
+       top: 4px;
+       left: 10px;
+       position: absolute;
+       color: white;
+   }
+
+   .immagini {
+       width:100%;
+       padding-left: 10px;
+   }
+   .monitor{
+       display: inline-block;
+       width:20%;
+       height: auto;
+
    }
