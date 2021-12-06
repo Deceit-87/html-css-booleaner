@@ -77,6 +77,11 @@ time , .p_small {
 
 }
 
+.p_center{
+    display: inline-block;
+    margin:0 auto;
+text-align: center;}
+
 .block_1e3 {
     background-color:rgb(124,199,238) ;
 
@@ -93,4 +98,8 @@ time , .p_small {
 
    .block_2 {
        background-color:white ;
+   }
+
+   .evidenziato {
+background-color: yellow;
    }
